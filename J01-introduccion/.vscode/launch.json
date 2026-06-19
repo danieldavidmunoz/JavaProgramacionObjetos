@@ -1,0 +1,700 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Array02",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array02",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Array02_profe",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array02_profe",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Array03",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array03",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Array06_01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array06_01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjProbandoInt01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.RANDOM_EJ.EjProbandoInt01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjProbandoInt02",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.RANDOM_EJ.EjProbandoInt02",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjProbandoStrings01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.RANDOM_EJ.EjProbandoStrings01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjProbandoStrings02",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.RANDOM_EJ.EjProbandoStrings02",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjString03",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.RANDOM_EJ.EjString03",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjString05",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.RANDOM_EJ.EjString05",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjStrings04",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.RANDOM_EJ.EjStrings04",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjStrings06",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.RANDOM_EJ.EjStrings06",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej01Mejorado",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej01Mejorado",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej02",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej03",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej03",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej04",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej04",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej05",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej05",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej06",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej06",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej07",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej07",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej08",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej08",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej10",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej10",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej11",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej11",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej12",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej12",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej13",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej13",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej14",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej14",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej14Mejorado",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej14Mejorado",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej15",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej15",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej16",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej16",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej17",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej17",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej18",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej18",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej19",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios01.Ej19",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_00",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_00",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_02",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_02",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_03",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_03",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_03_real",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_03_real",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_04",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_04",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_05",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_05",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_06",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_06",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_07",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_07",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_08",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_08",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_08_prueba",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_08_prueba",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_09",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_09",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_10",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_10",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_11",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_11",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_11Mejorado",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_11Mejorado",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_12",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_12",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_12_05",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_12_05",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_13",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_13",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_14",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_14",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_15",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_15",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej02_16",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios02.Ej02_16",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej03_01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios03.Ej03_01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej03_02",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios03.Ej03_02",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej03_04",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios03.Ej03_04",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej03_05",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios03.Ej03_05",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej04_01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios04.Ej04_01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej04_02",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios04.Ej04_02",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej04_04",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios04.Ej04_04",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej00",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios05.Ej00",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Prueba01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios05.Prueba01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Misterioso",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios06.Misterioso",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "RecursivoFibonaci",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios06.RecursivoFibonaci",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "SumatorioN",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.Ejercicios06.SumatorioN",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "E03_DecimalABinario",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.EjerciciosExtra.E03_DecimalABinario",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "E04_DecimalAHexadecimal",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.EjerciciosExtra.E04_DecimalAHexadecimal",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjExtra01",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.EjerciciosExtra.EjExtra01",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjExtra02",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.EjerciciosExtra.EjExtra02",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjExtra02Mejorado",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.EjerciciosExtra.EjExtra02Mejorado",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjExtra03",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.EjerciciosExtra.EjExtra03",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "EjExtra04",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.EjerciciosExtra.EjExtra04",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "PrimerEjemplo",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.PrimerEjemplo",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T01MiPrimerPrograma",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T01MiPrimerPrograma",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T02LeerDatos",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T02LeerDatos",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T03SumaEnteros",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T03SumaEnteros",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T04Condicional",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T04Condicional",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T04CondicionalMejorado",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T04CondicionalMejorado",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T05MayorDeDos",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T05MayorDeDos",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T06PruebaWhile",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T06PruebaWhile",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T07PruebaBandera",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T07PruebaBandera",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T08BucleFor",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T08BucleFor",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T09For",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T09For",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T10CondicionalMultiple",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T10CondicionalMultiple",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T11SwitchNuevo",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T11SwitchNuevo",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T12LimpiaBuffer",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T12LimpiaBuffer",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T13LimpiarBuffer",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T13LimpiarBuffer",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "T16MenuDani",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/introduccion.ejemplos.T16MenuDani",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Cadenas",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/strings.Cadenas",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "CadenasIgualdad",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/strings.CadenasIgualdad",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej07_03",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/strings.Ej07_03",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej07_05",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/strings.Ej07_05",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej07_06",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/strings.Ej07_06",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej07_06Mejorado",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/strings.Ej07_06Mejorado",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej07_07",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/strings.Ej07_07",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej07_08",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/strings.Ej07_08",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Ej07_15",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/strings.Ej07_15",
+            "projectName": "J01-introduccion"
+        }
+    ]
+}
