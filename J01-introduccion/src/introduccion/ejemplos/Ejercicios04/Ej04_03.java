@@ -27,5 +27,8 @@ public class Ej04_03 {
         System.out.println("");
             }
         }
-    
+    public static void main(String[] args) {
+        dibujaPermitroCuadrado(6);
+    }
 }
+
