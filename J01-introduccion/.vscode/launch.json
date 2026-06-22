@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array04_Profe",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array04_Profe",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Array03Parametrs",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array03Parametrs",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
