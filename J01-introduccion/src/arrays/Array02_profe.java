@@ -8,6 +8,6 @@ public class Array02_profe {
         return;
     }
     v1=Integer.parseInt(arg[0]);
-    v1=Integer.parseInt(arg[1]);
+    v2=Integer.parseInt(arg[1]);
     }
 }

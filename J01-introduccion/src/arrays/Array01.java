@@ -9,8 +9,17 @@ public class Array01 {
         }
        int[] porDiez={1,10,100,1000,10000};
        muestraArray(porDiez);
+    }public static void muestraArray(int[] v){
+    System.out.print("[");
+    for (int i=0; i < v.length -1; i++){
+        System.out.print( v[i] + ", ");
     }
-public static void muestraArray(int[] v){
+    int j = v.length - 1;
+    System.out.print(v[j]);
+    System.out.print("]");
+
+}
+public static void muestraArray(double[] v){
     System.out.print("[");
     for (int i=0; i < v.length -1; i++){
         System.out.print( v[i] + ", ");
@@ -19,5 +28,4 @@ public static void muestraArray(int[] v){
     System.out.print(v[j]);
     System.out.print("]");
 }
-
 }
