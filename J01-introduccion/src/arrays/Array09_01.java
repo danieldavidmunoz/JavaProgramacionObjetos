@@ -3,22 +3,21 @@
 package arrays;
 
 public class Array09_01 {
-   // public static void muestraArrayDosDimensiones (double[][] v){
-    public static void main(String[] args){
-        double [][] v1= {
-             {1, 2, 3,4},
-             {4, 5, 6},
-             {7, 8, 9}
-                };
-        for(int i=0;i<v1.length;i++){
-              System.out.println(i);
-            for(int j=0; i<v1[i].length;j++){
-                System.out.println(v1[i][j]);
-                
+  public static void muestraArrayDosDimensiones (double[][] v){
 
+        for(int i=0;i<v.length;i++){
+            
+            for(int j=0; j<v[i].length;j++){
+                System.out.print( v[i][j]+"\t");
+                
+                
             }
-   
+            System.out.println("\n");
         }
+    }
+    public static void main (String [] args){
+        double[][] matriz = {{1, 2, 3},{4, 5, 6},{7, 8, 9}};
+        muestraArrayDosDimensiones(matriz);
     }
 
 }

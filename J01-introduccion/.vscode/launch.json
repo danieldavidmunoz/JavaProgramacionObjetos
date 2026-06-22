@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array09_02",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array09_02",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
             "name": "Array09_01",
             "request": "launch",
             "mainClass": "J01Daniel_introduccion/arrays.Array09_01",
