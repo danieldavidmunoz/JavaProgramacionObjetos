@@ -7,7 +7,7 @@ public class Array03Parametrs {
     }
 
      public static void cambia (int[] v) {
-        Array01.muestraArray(v);
+        ArrayUtilProfe.muestra(v);
         for(int i=0;i<v.length;i++){
         v[i] = 0;
     }
@@ -21,6 +21,6 @@ public class Array03Parametrs {
 
         int[] numeros = {55,55,55,55,55};
         cambia(numeros);
-        Array01.muestraArray(numeros);
+        ArrayUtilProfe.muestra(numeros);
     }
 }

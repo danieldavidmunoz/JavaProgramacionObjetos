@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array09_07",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array09_07",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Array09_06",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array09_06",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Array09_05",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array09_05",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
+            "name": "Array09_04",
+            "request": "launch",
+            "mainClass": "J01Daniel_introduccion/arrays.Array09_04",
+            "projectName": "J01-introduccion"
+        },
+        {
+            "type": "java",
             "name": "Array09_02",
             "request": "launch",
             "mainClass": "J01Daniel_introduccion/arrays.Array09_02",

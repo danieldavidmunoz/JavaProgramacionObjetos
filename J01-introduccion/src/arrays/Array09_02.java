@@ -7,7 +7,7 @@ public class Array09_02 {
         for(int i=0;i<arrays.length;i++){
             
             for(int j=0; j<arrays[i].length;j++){
-            contador++;                   
+            contador+=arrays[i][j];  // Revisar esta parte de la suma de los valores de cada array no se ha hecho                 
              }
          }
         return contador;
@@ -15,7 +15,7 @@ public class Array09_02 {
      public static void main(String[] args) {
         double[][] nums = {{1, 2, 3},{4, 5, 6},{7, 8, 9},{1, 2, 3},{4, 5, 6},{7, 8, 9}};
         System.out.println(SumaDimensionesArray(nums));
-       ;
+       
      }
 }
 

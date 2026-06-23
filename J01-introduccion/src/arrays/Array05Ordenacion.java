@@ -28,7 +28,7 @@ public class Array05Ordenacion {
        // Array01.muestraArray(generaArray(20));
         v1=generaArray(10);
         insercion(v1);
-        Array01.muestraArray(v1);
+        ArrayUtilProfe.muestra(v1);
 
         long t0, tf;
         double[] v2 = generaArray(250_000_000);
