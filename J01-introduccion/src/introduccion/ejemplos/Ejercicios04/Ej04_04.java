@@ -8,11 +8,11 @@
 //**** ** ** ****
 //***** * * *****
 package introduccion.ejemplos.Ejercicios04;
-import introduccion.ejemplos.Ejercicios05.Consola;
+
 public class Ej04_04 {
 
 	public static void main (String arg[]) {
-		                                             
+				                                             
 	}
 	
 	
