@@ -1,19 +1,42 @@
 package model;
 
-public class Circulo extends Figura { //La clase Circulo desciende de Figura. Establecemos la relacion de herencia de Circulo
-    public double radio;
-    
-    public Circulo (){}
+public class Circulo extends Figura {
 
-    public Circulo (double x, double y, double radio){
-        super(x,y);
-        this.radio=radio; 
-
-    }
-    public double diametro(){
-        return radio*2;
-    }
-    public double area(){
-        return Math.PI*radio*radio;
-    }
+	public double radio;
+	
+	public Circulo() {}
+	
+	public Circulo(double x, double y, double radio) {
+		super(x, y);
+		this.radio = radio;
+	}
+	
+	public double diametro() {
+		return radio * 2;
+	}
+	
+	@Override
+	public double area() {
+		return Math.PI * radio * radio;
+	}
+	
+	@Override
+	public double perimetro() {
+		return Math.PI * diametro();
+	}
+	@Override
+	public String toString() {
+		return "Circulo(" + x + "," + y + "," + radio +")"; 
+	}
+		@Override // mirar este metodo para poder comparar 
+	public boolean equals(Object o){
+	//	return this == o;
+		if(!super.equals(o))
+			return false;
+		if (this==o)
+			return true;
+		Circulo otro =(Circulo)o;
+		return this.radio==otro.radio;
+	}
 }
+
