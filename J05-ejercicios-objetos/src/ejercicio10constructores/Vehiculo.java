@@ -1,4 +1,4 @@
-package ejercicio10constructores;
+
 public class Vehiculo {
     private String marca; 
     private String modelo; 
